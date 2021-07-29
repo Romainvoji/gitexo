@@ -1,0 +1,13 @@
+Créer un dépôt git en local dans un nouveau dossier
+Ajouter un peu de code
+créez des commits
+créez un repository sur github
+reliez votre dépôt local au remote
+envoyez votre code sur github
+modifiez votre code
+créez des commits
+vous envoyez les nouveaux comits sur github
+créez une nouvelle branch
+Faite des modifs
+faite un commits
+envoyez le code sur github
